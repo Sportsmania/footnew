@@ -1,0 +1,40 @@
+{
+  "result": [
+	{
+      "league_name": "Bein Sports 1",
+      "league_banner": "http://unitechsolution.tech/wp-content/uploads/2022/10/banner.png",
+      "league_url": "http://fastrunner.live:8080/ZoLR6MtJ2e/HL5CAzW9sR/80196"
+
+    },
+	{
+      "league_name": "Bein Sports 3",
+      "league_banner": "http://unitechsolution.tech/wp-content/uploads/2022/10/banner2.png",
+      "league_url": "http://fastrunner.live:8080/ZoLR6MtJ2e/HL5CAzW9sR/80197"
+    },
+	{
+      "league_name": "ARY Digital HD",
+      "league_banner": "http://unitechsolution.tech/wp-content/uploads/2022/10/banner2.png",
+      "league_url": "http://fastrunner.live:8080/ZoLR6MtJ2e/HL5CAzW9sR/3164"
+    },
+	{
+      "league_name": "TYC Sports",
+      "league_banner": "http://unitechsolution.tech/wp-content/uploads/2022/10/banner2.png",
+      "league_url": "http://fastrunner.live:8080/ZoLR6MtJ2e/HL5CAzW9sR/79788"
+    },
+	{
+      "league_name": "TSN1",
+      "league_banner": "http://unitechsolution.tech/wp-content/uploads/2022/10/banner1.png",
+      "league_url": "http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/19933"
+    },
+	{
+       "league_name": "+Foot",
+      "league_banner": "http://unitechsolution.tech/wp-content/uploads/2022/10/banner2.png",
+      "league_url": "http://fastrunner.live:8080/ZoLR6MtJ2e/HL5CAzW9sR/94599"
+    },
+	{
+      "league_name": "OS2",
+      "league_banner": "http://unitechsolution.tech/wp-content/uploads/2022/10/banner3.png",
+      "league_url": "http://fastrunner.live:8080/ZoLR6MtJ2e/HL5CAzW9sR/19445"
+    }
+  ]
+}
